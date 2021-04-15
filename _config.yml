@@ -2,7 +2,7 @@ title: |Law|Policy|Finance|
 author: B77D
 email: bethanydavieslondon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  ...
+
 theme: minima
 # social links
 github_username:  B77D # DO NOT include the @ character, or else the build will fail!
