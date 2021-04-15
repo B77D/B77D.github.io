@@ -1,5 +1,5 @@
 ---
-title: "HELLO ARIANNA !!!"
+title: "Current Research  !!!"
 ---
 
-I'm glad you are here. I plan to talk about THIS BLOG!
+Welcome to the midst of my on-going research into aspects of law, policy and finance.
